@@ -86,7 +86,7 @@ The flow of the game is as follows:
 - National champtionships
 - Increased media attention
 
-## 2.3.2 Classes
+### 2.3.2 Classes
 
 - Maiden
 - Novice
