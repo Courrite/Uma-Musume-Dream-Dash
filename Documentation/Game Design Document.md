@@ -8,7 +8,7 @@
 
 ### 1.1 Game Overview
 
-The game itself is a racing game, where you play as an Umamusume and race against others on a track in order to progress and access tracks of higher difficulty, fillings, and more.
+The game itself is a racing game, where you play as an Umamusume and race against others on a track in order to progress and access tracks of higher difficulty, fillings, et cetera.
 
 ### 1.2 Target Audience
 
