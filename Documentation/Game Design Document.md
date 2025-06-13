@@ -97,8 +97,6 @@ The flow of the game is as follows:
 
 ### 2.3.3 Career Milestones
 
-### 2.3.3 Career Milestones
-
 #### 2.3.3.1 Juniors
 
 - **Debut Race**
