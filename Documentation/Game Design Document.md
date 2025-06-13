@@ -118,7 +118,6 @@ The flow of the game is as follows:
   - Milestone: Alternate "big finish" target for top 2YO
 
 #### 2.3.3.2 Classics
-__(All Grade 1, three-year-old only)__
 
 - **Oka Shō (Japanese 1000 Guineas, G1)**
   - Early April, 1600m Turf at Hanshin (fillies)
@@ -138,7 +137,6 @@ __(All Grade 1, three-year-old only)__
   - Satsuki Shō → Tokyo Yūshun → Kikuka-shō
 
 #### 2.3.3.3 Senior Division
-__(Major open-age Grade 1's)__
 
 - **Tenno Shō (Spring, G1)**
   - Late April/Early May, 3200m Turf at Kyoto
