@@ -8,6 +8,14 @@ local Cleaner = Essentials.Cleaner
 
 export type Lens = typeof(setmetatable({
     Screen = (nil :: any) :: Part,
+    Distance = (nil :: any) :: number,
+    Size = (nil :: any) :: UDim2,
+    Rotation = (nil :: any) :: number,
+    Position = (nil :: any) :: UDim2,
+    AnchorPoint = (nil :: any) :: Vector2,
+    AspectRatio = (nil :: any) :: number,
+    AspectType = (nil :: any) :: Enum.AspectType,
+    DominantAxis = (nil :: any) :: Enum.DominantAxis,
 }, Lens))
 
 local ActiveUI = {}
