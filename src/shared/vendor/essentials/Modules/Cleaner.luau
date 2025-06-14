@@ -19,34 +19,20 @@ function Cleaner:Add(connection: RBXScriptConnection): RBXScriptConnection
     return connection
 end
 
-function Cleaner:Remove(connection: RBXScriptConnection): boolean
-    for i, conn in self._connections do
-        if conn == connection then
-            table.remove(self._connections, i)
-            return true
-        end
-    end
-    return false
-end
-
 function Cleaner:Clean(): ()
+    local activeConnections = {}
+    
     for _, connection in self._connections do
         if connection.Connected then
-            continue
+            table.insert(activeConnections, connection)
         end
-
-        connection.Disconnect()
     end
     
-    table.clear(self._connections)
+    self._connections = activeConnections
 end
 
 function Cleaner:Destroy(): ()
     self:Clean()
-end
-
-function Cleaner:__call(connection: RBXScriptConnection): RBXScriptConnection
-    return self:Add(connection)
 end
 
 return Cleaner
