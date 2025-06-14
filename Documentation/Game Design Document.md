@@ -8,7 +8,7 @@
 
 ### 1.1 Game Overview
 
-The game itself is a racing game, where you play as an Umamusume and race against others on a track in order to progress and access tracks of higher difficulty, fillings, and more.
+The game itself is a racing game, where you play as an Umamusume and race against others on a track in order to progress and access tracks of higher difficulty, fillings, et cetera.
 
 ### 1.2 Target Audience
 
@@ -86,7 +86,7 @@ The flow of the game is as follows:
 - National champtionships
 - Increased media attention
 
-## 2.3.2 Classes
+### 2.3.2 Classes
 
 - Maiden
 - Novice
@@ -94,8 +94,6 @@ The flow of the game is as follows:
 - Stakes
 - Graded Stakes
 - Grade 1
-
-### 2.3.3 Career Milestones
 
 ### 2.3.3 Career Milestones
 
@@ -118,7 +116,6 @@ The flow of the game is as follows:
   - Milestone: Alternate "big finish" target for top 2YO
 
 #### 2.3.3.2 Classics
-__(All Grade 1, three-year-old only)__
 
 - **Oka Shō (Japanese 1000 Guineas, G1)**
   - Early April, 1600m Turf at Hanshin (fillies)
@@ -138,7 +135,6 @@ __(All Grade 1, three-year-old only)__
   - Satsuki Shō → Tokyo Yūshun → Kikuka-shō
 
 #### 2.3.3.3 Senior Division
-__(Major open-age Grade 1's)__
 
 - **Tenno Shō (Spring, G1)**
   - Late April/Early May, 3200m Turf at Kyoto
